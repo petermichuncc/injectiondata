@@ -1,0 +1,30 @@
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Bson.dll
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Driver.dll
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Bson.pdb
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Bson.xml
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Driver.pdb
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\bin\Debug\MongoDB.Driver.xml
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\MongoDB.Bson.pdb
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\MongoDB.Bson.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\MongoDB.Driver.pdb
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\bin\Debug\MongoDB.Driver.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\InjectionDataCollection.Resources.resources
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Debug\GenerateResource.write.1.tlog

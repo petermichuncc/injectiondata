@@ -1,0 +1,13 @@
+C:\Desktop\InjectionDataCollection.exe
+C:\Desktop\InjectionDataCollection.pdb
+C:\Desktop\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\InjectionDataCollection.Resources.resources
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\InjectionDataCollection.xml
+C:\Documents and Settings\admusspo01\My Documents\Visual Studio 2010\Projects\InjectionDataCollection\obj\x86\Release\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection.exe
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection.pdb
+C:\Documents and Settings\admusspo01\Desktop\injectiondata\InjectionDataCollection.xml
